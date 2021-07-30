@@ -10,6 +10,8 @@
 
 ### Screenshots
 
+<img src="https://user-images.githubusercontent.com/45800574/127684254-b331579b-268c-41b0-8c4f-e8eeb51fcb8d.jpeg" width="300" height="500" />
+
 
  
  
